@@ -1,0 +1,6 @@
+﻿  Graphics.cpp
+C:\Users\gabri\source\repos\D3D12-ACADEMY\D3D12-ACADEMY\Graphics.cpp(146,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\gabri\source\repos\D3D12-ACADEMY\D3D12-ACADEMY\Graphics.cpp(167,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Triangle.cpp
+  Gerando Código...
+  D3D12-ACADEMY.vcxproj -> C:\Users\gabri\source\repos\D3D12-ACADEMY\x64\Debug\D3D12-ACADEMY.exe
